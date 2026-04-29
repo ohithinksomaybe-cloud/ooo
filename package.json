@@ -10,6 +10,7 @@
     "bl": "^5.1.0",
     "downgrade-replay-tile-matches": "*",
     "iconv-lite": "^0.6.3",
+    "implode-decoder": "^1.0.2",
     "pkware-wasm": "*"
   },
   "engines": {
